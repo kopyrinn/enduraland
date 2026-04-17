@@ -1,0 +1,34 @@
+{
+  "name": "Endura — Инвестиционный менторинг",
+  "short_name": "Endura",
+  "description": "Персональная работа с инвестором. Долгосрочные стратегии капитала в подходе Уоррена Баффетта и Чарли Мангера.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#1E3A5F",
+  "lang": "ru",
+  "dir": "ltr",
+  "categories": ["finance", "business", "education"],
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
